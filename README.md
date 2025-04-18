@@ -75,6 +75,10 @@ POM: /var/lib/jenkins/HELLO-JAVA-MAVEN/pom.xml
 
 Click Save
 
+![Image](https://github.com/user-attachments/assets/6261a655-5481-4c84-82fd-835f53d96df8)
+
+![Image](https://github.com/user-attachments/assets/c4cdeb61-4efa-4340-a270-33117d383d61)
+
 5️⃣ Build the Project
 Click Build Now
 
@@ -83,6 +87,10 @@ Wait for build to complete
 Go to Console Output to view logs
 
 ✅ You should see a BUILD SUCCESS message at the end.
+
+![Image](https://github.com/user-attachments/assets/90bb2266-3e5d-4aa2-8365-c4ef9ca6067e)
+
+![Image](https://github.com/user-attachments/assets/c1428338-06a5-4d43-847d-11374f0565d6)
 
 
 
